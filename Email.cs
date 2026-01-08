@@ -1,5 +1,8 @@
 ﻿namespace knightmoves;
 public class Email
 {
-    // Add your code here
+    public const string introduction = "Dear Jacob, \n" +
+    "\tThank you for being such a \"wonderful\" manager, \n" +
+    "Sincerly,\n" +
+    "Jack :\\";
 }
